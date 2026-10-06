@@ -1,2 +1,2 @@
 # nowaitagent-releases
-Completed applications for public use
+Apps completed for public use issued and confirmed by Bryan Andrade Castrillon
